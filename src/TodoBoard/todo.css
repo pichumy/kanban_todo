@@ -1,0 +1,22 @@
+.todo-board-container{
+  padding: 25px;
+  display: flex;
+  background-color: gray;
+}
+
+.todo {
+  padding: 25px;
+  margin: 8px;
+  background-color: white; 
+}
+
+.board-header {
+  height: 30px;
+  text-align: center;
+  margin: 25px;
+  color: white;
+}
+
+.todo-board {
+  width: 100%;
+}
